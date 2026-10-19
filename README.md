@@ -6,7 +6,7 @@
 
 Building practical workflows around **Unreal Engine, Blender, and ComfyUI** — with a focus on local processing, artist control, and usable production tools.
 
-[**MotionSmith AI website**](https://motionsmithai.blogspot.com/) · [**Documentation**](https://motionsmithai.blogspot.com/p/docs.html) · [**Tutorials**](https://motionsmithai.blogspot.com/p/tutorials.html)
+[**MotionSmith AI website**](https://motionsmithai.blogspot.com/) · [**Documentation**](https://motionsmithai.blogspot.com/p/docs.html) · [**Tutorials**](https://motionsmithai.blogspot.com/p/tutorials.html) · [**Launch & press kit**](LAUNCH_KIT.md)
 
 </div>
 
